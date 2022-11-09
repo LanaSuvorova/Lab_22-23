@@ -20,7 +20,7 @@ public class Clone {
 			Sheep pecora = new Sheep(dna, nome);
 			
 			try {
-				Sheep clone = (Sheep) pecora.clone(); //non controllo la CloneNotSupportedException perchè l'ho fatto io e so che supporta il clone
+				Sheep clone = (Sheep) pecora.clone();
 				System.out.println("Ho creato un clone di " + nome);
 				
 				if (pecora.equals(clone))
