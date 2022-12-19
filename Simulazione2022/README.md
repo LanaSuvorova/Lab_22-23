@@ -1,4 +1,4 @@
-# vetreria
+# Vetreria
 
 Un `Contenitore` può contenere una certa quantità di liquido, fino ad un massimo pari al proprio volume. Se si cerca di creare un `Contenitore` con più liquido della sua capienza, viene lanciata una `ExceededCapacityException` (checked) Il liquido contenuto (se presente) è memorizzato con il suo nome (vuoto se non vi è del liquido). È possibile versare il liquido di un contenitore dentro un altro, ma solamente se questo contiene lo stesso liquido oppure non contiene già del liquido. Se i liquidi non sono compatibili viene lanciata una `IncompatibleLiquidsException` (unchecked) e i due contenitori non vengono modificati. Se il contenitore di destinazione ha sufficiente capienza rimanente, tutto il liquido sarà versato, lasciando il contenitore di origine vuoto, mentre il contenitore di destinazione conterrà la somma dei volumi che prima erano contenuti nei due contenitori. Altrimenti, il contenitore sarà riempito fino alla sua massima capienza ed il resto del liquido rimarrà nel contenitore di origine. I contenitori devono poter essere naturalmente ordinati in base alla loro capienza (in ordine DECRESCENTE).
 
@@ -26,15 +26,21 @@ acqua 1000 Cuboide 10 10 10
 alcool 200 Cilindro 5 4
 
 Vetreria con:
-  Sfera di raggio: 5.0 (capienza: 523.5987755982989 , contenuto: 300.0 , liquido: alcool)
-  Cuboide di lati: 10.0, 10.0, 10.0 (capienza: 1000.0 , contenuto: 1000.0 , liquido: acqua)
-  Cilindro di altezza: 5.0 e raggio: 4.0 (capienza: 251.32741228718345 , contenuto: 200.0 , liquido: alcool)
+  Sfera - raggio: 5.0
+    (capienza: 523.5987755982989, contenuto: 300.0, liquido: alcool)
+  Cuboide - lati: 10.0, 10.0, 10.0
+    (capienza: 1000.0, contenuto: 1000.0, liquido: acqua)
+  Cilindro - altezza: 5.0, raggio: 4.0
+    (capienza: 251.32741228718345, contenuto: 200.0, liquido: alcool)
 
 Vetreria con:
-  Sfera di raggio: 5.0 (capienza: 523.5987755982989 , contenuto: 500.0 , liquido: alcool)
-  Cilindro di altezza: 5.0 e raggio: 4.0 (capienza: 251.32741228718345 , contenuto: 0.0 , liquido: )
+  Sfera - raggio: 5.0
+    (capienza: 523.5987755982989, contenuto: 500.0, liquido: alcool)
+  Cilindro - altezza: 5.0, raggio: 4.0
+    (capienza: 251.32741228718345, contenuto: 0.0)
 
 Vetreria con:
-  Cuboide di lati: 10.0, 10.0, 10.0 (capienza: 1000.0 , contenuto: 1000.0 , liquido: acqua)
+  Cuboide - lati: 10.0, 10.0, 10.0
+    (capienza: 1000.0, contenuto: 1000.0, liquido: acqua)
 
 ```
