@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T23:24:21.155Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="rTY8YzoUDqEFk6O5zrfI" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T23:52:07.946Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="lRuP-XSvNK52ZsaTG0IL" version="24.4.4" type="github">
   <diagram name="Pagina-1" id="woLgoflBnYrOJVL_EDXt">
-    <mxGraphModel dx="2187" dy="1265" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2906" dy="1667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,10 +157,10 @@
           <mxGeometry x="-164.38" y="-419" width="100" height="28" as="geometry" />
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-101" value="&lt;p style=&quot;margin: 0px 0px 0px 72px; text-indent: -72px; font-stretch: normal; line-height: normal; font-family: Times;&quot;&gt;Tipo&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="138" y="-441" width="100" height="28" as="geometry" />
+          <mxGeometry x="195" y="-276" width="100" height="28" as="geometry" />
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-102" value="&lt;p style=&quot;margin: 0px 0px 0px 72px; text-indent: -72px; font-stretch: normal; line-height: normal; font-family: Times;&quot;&gt;AnzianitàServizio&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="274" y="-462" width="159" height="28" as="geometry" />
+          <mxGeometry x="328" y="-294" width="159" height="28" as="geometry" />
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-103" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -508,10 +508,10 @@
             <mxPoint x="-102.6400000000001" y="-391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W7nRIWuPNDp_MP-GWuMY-216" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.924;exitY=0.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-216" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.924;exitY=0.024;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="W7nRIWuPNDp_MP-GWuMY-101">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="164.69400000000007" y="-385.99600000000004" as="sourcePoint" />
-            <mxPoint x="177.9999999999999" y="-413.58" as="targetPoint" />
+            <mxPoint x="172.69400000000007" y="-319.99600000000004" as="sourcePoint" />
+            <mxPoint x="185.9999999999999" y="-347.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-217" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
@@ -523,9 +523,9 @@
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-218" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="115" y="-276" width="13" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="W7nRIWuPNDp_MP-GWuMY-219" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.999;exitY=0.066;exitDx=0;exitDy=0;entryX=0.222;entryY=0.911;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="W7nRIWuPNDp_MP-GWuMY-194" target="W7nRIWuPNDp_MP-GWuMY-102">
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-219" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="W7nRIWuPNDp_MP-GWuMY-102">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="187.9964999999999" y="-319.5799999999999" as="sourcePoint" />
+            <mxPoint x="203" y="-342" as="sourcePoint" />
             <mxPoint x="308" y="-420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -744,12 +744,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-282" value="Esame" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1286" y="505" width="253.5" height="66" as="geometry" />
+          <mxGeometry x="1279" y="210" width="253.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-283" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="601" y="613" as="sourcePoint" />
-            <mxPoint x="599" y="452" as="targetPoint" />
+            <mxPoint x="681" y="613" as="sourcePoint" />
+            <mxPoint x="687" y="452" as="targetPoint" />
             <Array as="points">
               <mxPoint x="930" y="613" />
               <mxPoint x="930" y="452" />
@@ -757,52 +757,148 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-284" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="597" y="442.5" width="13" height="13" as="geometry" />
+          <mxGeometry x="676" y="445" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-286" value="Descrizione" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1439.5" y="435" width="100" height="28" as="geometry" />
+          <mxGeometry x="1432.5" y="138" width="100" height="28" as="geometry" />
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-287" value="CostoPrivato" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1286" y="447" width="100" height="28" as="geometry" />
+          <mxGeometry x="1279" y="150" width="100" height="28" as="geometry" />
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-288" value="Costo AssistenzaSanitaria" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="614" width="195" height="28" as="geometry" />
+          <mxGeometry x="1141" y="320" width="195" height="28" as="geometry" />
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-289" value="Avvertenze" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1346" y="390" width="100" height="28" as="geometry" />
+          <mxGeometry x="1339" y="93" width="100" height="28" as="geometry" />
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-290" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.199;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1336.2265" y="504.12200000000007" as="sourcePoint" />
-            <mxPoint x="1335.78" y="475" as="targetPoint" />
+            <mxPoint x="1329.2265" y="207.12200000000007" as="sourcePoint" />
+            <mxPoint x="1328.78" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-291" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.459;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W7nRIWuPNDp_MP-GWuMY-282" target="W7nRIWuPNDp_MP-GWuMY-289">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1402.4465" y="458.12200000000007" as="sourcePoint" />
-            <mxPoint x="1402" y="429" as="targetPoint" />
+            <mxPoint x="1395.4465" y="161.12200000000007" as="sourcePoint" />
+            <mxPoint x="1395" y="132" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-292" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.459;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="W7nRIWuPNDp_MP-GWuMY-286">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1490" y="505" as="sourcePoint" />
-            <mxPoint x="1490" y="465" as="targetPoint" />
+            <mxPoint x="1483" y="208" as="sourcePoint" />
+            <mxPoint x="1483" y="168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W7nRIWuPNDp_MP-GWuMY-293" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.459;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-293" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.639;exitY=0.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W7nRIWuPNDp_MP-GWuMY-288">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1468" y="614" as="sourcePoint" />
-            <mxPoint x="1468" y="572" as="targetPoint" />
+            <mxPoint x="1297" y="318" as="sourcePoint" />
+            <mxPoint x="1297" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W7nRIWuPNDp_MP-GWuMY-294" value="&lt;p style=&quot;margin: 0px 0px 0px 72px; text-indent: -72px; font-stretch: normal; line-height: normal; font-family: Times;&quot;&gt;&lt;b&gt;CodiceEsame&lt;/b&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="1267" y="657" width="117" height="38" as="geometry" />
+          <mxGeometry x="1104" y="169" width="117" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="W7nRIWuPNDp_MP-GWuMY-295" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.459;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-295" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.55;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="W7nRIWuPNDp_MP-GWuMY-294">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1324" y="658" as="sourcePoint" />
-            <mxPoint x="1323" y="571" as="targetPoint" />
+            <mxPoint x="1195" y="233" as="sourcePoint" />
+            <mxPoint x="1279" y="233" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-303" value="DataPrenotazione" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340.5" y="450" width="127" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-305" value="DataEsame" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="286" y="505" width="105" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-306" value="OraEsame" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="373" y="568" width="105" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-307" value="RegimeCosto" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="419" y="401" width="127" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-308" value="Urgenza" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="493" y="600" width="105" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-309" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.789;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W7nRIWuPNDp_MP-GWuMY-307">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="576" y="439" as="sourcePoint" />
+            <mxPoint x="645" y="503" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-310" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.964;exitY=0.728;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.009;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W7nRIWuPNDp_MP-GWuMY-303" target="W7nRIWuPNDp_MP-GWuMY-273">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="548" y="475" as="sourcePoint" />
+            <mxPoint x="607" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-311" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W7nRIWuPNDp_MP-GWuMY-305">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="520" as="sourcePoint" />
+            <mxPoint x="622" y="522" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-312" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.939;exitY=0.085;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W7nRIWuPNDp_MP-GWuMY-306">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="548" y="568" as="sourcePoint" />
+            <mxPoint x="623" y="544" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-313" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.633;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W7nRIWuPNDp_MP-GWuMY-308">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398" y="568" as="sourcePoint" />
+            <mxPoint x="629" y="571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-314" value="Prescrizione" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="505" width="253.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-315" value="EsecuzioneEsami" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1276.94" y="361" width="257.62" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-316" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1405.13" y="276" as="sourcePoint" />
+            <mxPoint x="1405.13" y="361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-317" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="W7nRIWuPNDp_MP-GWuMY-316">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-4" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-318" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1405.13" y="423" as="sourcePoint" />
+            <mxPoint x="1405.13" y="508" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-319" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="W7nRIWuPNDp_MP-GWuMY-318">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-8" y="-67" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-320" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="W7nRIWuPNDp_MP-GWuMY-322">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1542" y="537" as="sourcePoint" />
+            <mxPoint x="1608" y="-416" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1608" y="537" />
+              <mxPoint x="1604" y="33" />
+              <mxPoint x="1215" y="36" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-321" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W7nRIWuPNDp_MP-GWuMY-194" target="W7nRIWuPNDp_MP-GWuMY-322">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426" y="-335" as="sourcePoint" />
+            <mxPoint x="823" y="-630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="564" y="-619" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7nRIWuPNDp_MP-GWuMY-322" value="TurniProntoSoccorso" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="963.38" y="-649" width="257.62" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
